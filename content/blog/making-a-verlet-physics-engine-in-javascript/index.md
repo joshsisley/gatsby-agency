@@ -144,7 +144,6 @@ We added a lot more dots in random positions and then `update()` `constrain()` `
 
 Let's see what that looks like:
 
-https://codepen.io/anuraghazra/pen/VOpJJR?default-tab=results
 
 Excellent — it's just a start, but finally, we have something.
 
@@ -273,7 +272,7 @@ animate();
 
 Let’s see the results:
 
-https://codepen.io/anuraghazra/pen/qGmWmZ?default-tab=results
+
 
 As you can see, we have a box! Well, a box that acts like it’s made of Jello, That’s because, in a single frame, one update per stick is not enough to make the dots rest at their length. We have to iterate the simulation as many times as we can — the more the iterations, the more the rigid box will be.
 
@@ -310,7 +309,7 @@ function animate() {
 animate()
 ```
 
-https://codepen.io/anuraghazra/pen/gJWpmX?default-tab=results
+
 
 Looks amazing, isn’t it?
 
@@ -402,7 +401,6 @@ Yes, this is looking pretty clean and manageable!
 
 Let's take a look at the final result:
 
-https://codepen.io/anuraghazra/pen/JqNdQW?default-tab=results
 
 Now we can create lots of fun Verlet Shapes with this Entity.js class!
 

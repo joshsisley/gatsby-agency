@@ -74,9 +74,6 @@ For this, we are going to use `dotenv`
 In your root directory create a file called `.env` (without extension) and add this line to it with your personal token
 which you generated previously.
 
-After that, you should also create a
-[.gitignore](https://github.com/anuraghazra/GithubActionsPlayground/blob/master/.gitignore) file so that your .env wont
-get uploaded in GitHub.
 
 ```
 PERSONAL_TOKEN=yourtoken123
@@ -336,7 +333,7 @@ Hopefully, this post was helpful to you, and you learned something about "Github
 
 NOTE: I disabled GitHub action on this repo, so someone cleaver than me doesn't exploit anything.
 
-**[See Full Code on GitHub](https://github.com/anuraghazra/GithubActionsPlayground)**
+**[See Full Code on GitHub](https://github.com/joshsisley)**
 
 
 **Useful resources:-**

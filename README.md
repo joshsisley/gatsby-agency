@@ -1,19 +1,10 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io/">
+  <a href="http://joshuasisley.com/">
     <img alt="Gatsby" src="./src/static/logo.svg" width="100" />
     <h2 align="center">Joshua Sisley</h2>
   </a>
 </p> 
 <p align="center">Full Stack Developer</p>
-
-[![Build Status](https://travis-ci.org/anuraghazra/anuraghazra.github.io.svg?branch=develop)](https://travis-ci.org/anuraghazra/anuraghazra.github.io)
-![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
-![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
-
-
-![Joshua Sisley Site Preview](./src/static/screenshot.png)
-
-Strained eyes? There's DarkMode too :p
 
 ## :rocket: Quick start
 

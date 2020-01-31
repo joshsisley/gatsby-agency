@@ -1,9 +1,9 @@
 {
-  "name": "anurag-hazra",
+  "name": "Joshua Sisley",
   "private": true,
   "description": "Joshua Sisley Portfolio Site",
   "version": "0.1.0",
-  "author": "Joshua Sisley <hazru.anurag@gmail.com>",
+  "author": "Joshua Sisley <josh@joshuasisley.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
